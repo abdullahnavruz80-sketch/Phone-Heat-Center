@@ -1,0 +1,6 @@
+{
+  "name": "Phone Heat - Telefon Sıcaklık Merkezi",
+  "description": "Telefon sıcaklığı, CPU/GPU/batarya takibi, FPS sayacı, Gaming/Normal/Eco modları ve gelişmiş soğutma/sistem izleme araçları.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
